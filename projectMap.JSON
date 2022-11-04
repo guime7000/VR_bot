@@ -1,0 +1,22 @@
+{
+  "root": "/home/tom/MonBoat/",
+  "vrwind": "https://static.virtualregatta.com/winds/",
+  "storage": {
+    "src": "Src/",
+    "data": {
+      "wnd": "Data/Wnd/",
+      "grib": "Data/Gribs/",
+      "polar": "Data/Polaires/",
+      "map": "Data/MapsVR/",
+      "iso": "Data/Isochrones/",
+      "folium": "Data/Folium/"
+    }
+  },
+  "api": {
+    "url": "API URL",
+    "login": "TO BE FILLED",
+    "leg": "TO BE FILLED",
+    "bs": "TO BE FILLED",
+    "ba": "TO BE FILLED"
+  }
+}
